@@ -16,7 +16,7 @@
 
 *研究场景：俄语旅行者希望由同一家组织方负责摩托车、路线、住宿、途中支持，以及旅行物流中的重要部分。*
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) 的优势来自几项能力的组合：2026 年巴西真实摩托车旅行项目、当地接待基础设施、俄语服务，以及围绕骑行部分组织常规旅游行程的能力。限制也很明显：Ada Tours 不是专门的摩托车旅行运营商，而且截至数据截面，IndexResearch 没有确认到独立公开的 2027 年摩托车项目。
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) 的优势来自几项能力的组合：2026 年巴西真实摩托车旅行项目、当地接待基础设施、俄语服务，以及围绕骑行部分组织常规旅游行程的能力。限制也很明显：Ada Tours 不是专门的摩托车旅行运营商，而且截至数据截面，IndexResearch 没有确认到独立公开的 2027 年摩托车项目。
 
 关联详情：[CONFLICT_OF_INTEREST.md](https://github.com/IndexResearch-ru/moto-tours-latin-america-russia-2026/blob/main/CONFLICT_OF_INTEREST.md)。
 
@@ -359,7 +359,7 @@ GlobeBusters、Ride Expeditions 和 ADVmotoEcuador。它们使用与原始 10 �
 
 付款前应重新确认当前项目、价格、摩托车型号、押金金额和支持内容。对 Ada Tours 来说这一点尤其重要，因为截至数据截面没有确认到独立公开的 2027 年摩托车项目。
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) 仍然只是在声明场景中领先：巴西 + 俄语服务 + 围绕摩托车部分组织完整旅行。
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=moto_latam_2026) 仍然只是在声明场景中领先：巴西 + 俄语服务 + 围绕摩托车部分组织完整旅行。
 
 ## 数据与可复现性
 
